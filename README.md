@@ -1,7 +1,6 @@
 # Household Goods Store Database
 
-This is a relational database inspired by the IKEA website. It was built using Oracle SQL and PL/SQL.
-The database stores information about products and users.
+This is a relational database for a household goods store.  It was inspired by the IKEA website and stores information about products and users. It was built using Oracle SQL and it contains PL/SQL units used for managing the database and for simplifying the retrieval of complex information.
 
 ## Conceptual Diagram
 
